@@ -10,7 +10,7 @@ The market research team at AeroFit wants to identify the characteristics of the
 ## About Data
 The company collected the data on individuals who purchased a treadmill from the AeroFit stores during three months.The data is available in a single csv file
 
-_Product Portfolio_
+**Product Portfolio**
 
 - The KP281 is an entry-level treadmill that sells for USD 1,500.
 
@@ -33,32 +33,36 @@ _Product Portfolio_
 
 ## Concepts
 
-- _Feature Engineering_
-  - Created new feature fitness category based on self fitness rating.
+- Feature Engineering
+  - Created new feature fitness category based on self fitness rating
 - Data Visualization using Matplotlib and Seaborn
+- Correlation
+- Descriptive Statistics
+- Probality
 - Customer Profiling based on various factors
 
 ## Customer Profiling
 
-_KP281 - Entry Level Treadmill - $1500 : 80 Customers_
+**KP281 - Entry Level Treadmill - $1500 : 80 Customers**
 - Suitable for Low Income Category Individuals.
 - Both Male and Female equally prefer this type.
--Low and Medium Fit customers also prefer this type of treadmill. 
+- Low and Medium Fit customers also prefer this type of treadmill. 
 
-KP481 - Middle Level Treadmill - $1750 : 60 Customers
-• Suitable for Low and Medium Income Category Individuals.
-• Male customers are more in this type of treadmill than female customers.
-• Low and Medium Fit customers also prefer this type of treadmill.
-KP781 - High Level Treadmill - $2500 : 40 Customers
-• Suitable for High Income Category Individuals.
-• Male customers prefer this type of treadmill.
-• High Fit customers prefer this type of treadmill.
+**KP481 - Middle Level Treadmill - $1750 : 60 Customers**
+- Suitable for Low and Medium Income Category Individuals.
+- Male customers are more in this type of treadmill than female customers.
+- Low and Medium Fit customers also prefer this type of treadmill.
+  
+**KP781 - High Level Treadmill - $2500 : 40 Customers**
+- Suitable for High Income Category Individuals.
+- Male customers prefer this type of treadmill.
+- High Fit customers prefer this type of treadmill.
 
 ## Recommendations
 
-- Prioritize High-Earning Customers
-- Implement Income-Based Loan Limitations
-- Exercise Caution with Customers Lacking Credit History
-- Encourage Credit Status Improvement for Low-Risk Borrowers
-- Limit Loan Amounts for Average-Risk Customers
+- KP 281 is the favourite product for customers closely followed by KP481.
+- As the income of the customers increase, the price of treadmills also increasewhich means, high earning customers prefer the treadmill with advanced features.
+- Fitness rating of female customers is very low when compared to the male customers. 
+- Customers who cover more miles tend to prefer the advanced treadmill KP781.
+- Huge difference between male and female in buying the higher end treadmill with 90% of KP781 customers being male.
 
