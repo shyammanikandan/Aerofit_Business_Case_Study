@@ -38,7 +38,7 @@ The company collected the data on individuals who purchased a treadmill from the
 - Data Visualization using Matplotlib and Seaborn
 - Correlation
 - Descriptive Statistics
-- Probality
+- Probability
 - Customer Profiling based on various factors
 
 ## Customer Profiling
